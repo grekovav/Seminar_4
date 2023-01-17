@@ -27,5 +27,3 @@ void showArray(int[] array)
 }
 int[] array = GetArrayRandom(8);
 showArray(array);
-
-
